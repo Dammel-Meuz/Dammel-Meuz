@@ -1,10 +1,13 @@
 ## Hi I'm Meuz :fox_face:
 
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
 :computer: Web Developper at [Defarsci](https://www.defarsci.org/) :desert_island:Living in Dakar:Senegal 
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Dammel-meuz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dammel-meuz&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dammel-meuz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Tech Stack
 
@@ -39,5 +42,11 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dammel-Meuz&repo=send-email&show_owner=true)](https://github.com/Dammel-Meuz/send-email)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dammel-Meuz&repo=Api-SpringBoot&show_owner=true)](https://github.com/Dammel-Meuz/Api-SpringBoot/tree/main/apiPatientCov19)
+
+
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+ 
